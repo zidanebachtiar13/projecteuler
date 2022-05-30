@@ -4,7 +4,7 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-My solution for https://projecteuler.net/
+See src/projecteuler/core.clj to see my solution.
 
 ## License
 
